@@ -1,6 +1,0 @@
----
-title: "Contact"
-editor: visual
----
-
-You can reach me at emilyuna.kim\@mail.utoronto.ca

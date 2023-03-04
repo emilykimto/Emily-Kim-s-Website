@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-Hi! I'm Emily.
-
-I am a Bachelor of Information student at the University of Toronto and Design Researcher at the Innovation Hub. Thanks for checking out my website.
